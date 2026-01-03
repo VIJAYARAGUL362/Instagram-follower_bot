@@ -8,9 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 **An intelligent Instagram automation tool leveraging Selenium WebDriver for strategic follower growth**
-
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Demo](#demo)
-
 </div>
 
 ---
@@ -378,9 +375,9 @@ instagram-follower-bot/
 ## 👨‍💻 Author
 
 **Your Name**
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Portfolio: [yourwebsite.com](https://vijayaragul.substack.com/)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vijayaragul/)
+- GitHub: [@yourusername](https://github.com/VIJAYARAGUL362)
 
 ---
 
@@ -404,14 +401,10 @@ If you found this project helpful or interesting, please consider:
 - Giving it a ⭐ on GitHub
 - Sharing it with others learning Python
 - Contributing improvements via Pull Requests
-- Connecting with me on [LinkedIn](https://linkedin.com/in/yourprofile)
+- Connecting with me on [LinkedIn](https://www.linkedin.com/in/vijayaragul/)
 
 ---
 
 <div align="center">
-
 **Built with ❤️ and Python**
-
-[⬆ Back to Top](#-instagram-follower-automation-bot)
-
 </div>
